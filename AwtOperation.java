@@ -49,7 +49,7 @@ class Awt extends Frame{
 public class AwtOperation {
     public static void main(String[] args)
     {
-        Swing d=new Swing();
+        Awt d=new Awt();
     }
     
 }
